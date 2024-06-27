@@ -1,2 +1,2 @@
-console.log("just for test")
+console.log("for user test")
 return
